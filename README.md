@@ -9,7 +9,7 @@ Features:
 * Login with name, email Id.
 * Chat with a user who has logged into the same chat room. 
 * Only 2 people are allowed per room. If more people enter, they will be directed to a different room.
-* More fancy stuff
+* Even more fancy stuff
 
 ## Requirements
 - [Node js](https://nodejs.org/en/download/)
